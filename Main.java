@@ -4,6 +4,7 @@ public class Main {
     }
 
     public static void featureFunction() {
+        int myChange = 3;
         int a = 5;
         // a change
     }
